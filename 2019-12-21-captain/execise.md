@@ -12,7 +12,7 @@
 1. [Install Guide](https://github.com/alauda/captain/blob/master/docs/install.md)
 
 
-## 安装 kuebctl-captain
+## 安装 kuebctl-captain(可选)
 
 kubectl-captain 是一个kubectl plugin, 可以用来方便地创建HelmRequest等
 
