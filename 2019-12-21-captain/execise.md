@@ -16,7 +16,7 @@
 
 kubectl-captain 是一个kubectl plugin, 可以用来方便地创建HelmRequest等
 
-1. [kubectl-captain]https://github.com/alauda/kubectl-captain
+1. [kubectl-captain](https://github.com/alauda/kubectl-captain)
 
 
 
@@ -26,3 +26,7 @@ kubectl-captain 是一个kubectl plugin, 可以用来方便地创建HelmRequest�
 
 
 
+## helm charts
+
+1. [kubeapps](https://kubeapps.com/)
+2. [helm/charts](https://github.com/helm/charts)
