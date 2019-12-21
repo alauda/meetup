@@ -1,18 +1,18 @@
-* 2019-12-21 captain meetup 
+# 2019-12-21 captain meetup 
 
 
-** 配置要求
+## 配置要求
 
 * docker
 * kubernetes
 * helm (v2/v3 均可)
 
-** 安装 captain
+## 安装 captain
 
 1. [Install Guide](https://github.com/alauda/captain/blob/master/docs/install.md)
 
 
-** 安装 kuebctl-captain
+## 安装 kuebctl-captain
 
 kubectl-captain 是一个kubectl plugin, 可以用来方便地创建HelmRequest等
 
@@ -20,7 +20,7 @@ kubectl-captain 是一个kubectl plugin, 可以用来方便地创建HelmRequest�
 
 
 
-** HelmRequest 语法参考
+## HelmRequest 语法参考
 
 1. [HelmRequest](https://github.com/alauda/captain/blob/master/docs/helmrequest.md)
 
