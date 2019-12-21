@@ -1,4 +1,4 @@
-# 2019-12-21 captain meetup 
+# 2019-12-21 Captain Meetup 
 
 
 ## 配置要求
