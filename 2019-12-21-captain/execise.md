@@ -30,3 +30,8 @@ kubectl-captain 是一个kubectl plugin, 可以用来方便地创建HelmRequest�
 
 1. [kubeapps](https://kubeapps.com/)
 2. [helm/charts](https://github.com/helm/charts)
+
+
+## controller + crd
+
+1. [kubebuilder](https://book.kubebuilder.io/)
